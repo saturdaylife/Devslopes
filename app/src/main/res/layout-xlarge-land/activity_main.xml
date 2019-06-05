@@ -7,7 +7,7 @@
 
     <ImageView
             android:layout_width="0dp"
-            android:layout_height="150" app:srcCompat="@drawable/devslopesbanner"
+            android:layout_height="150dp" app:srcCompat="@drawable/devslopesbanner"
             android:id="@+id/imageView6"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
