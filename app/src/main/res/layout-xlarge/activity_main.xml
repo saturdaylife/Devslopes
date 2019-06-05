@@ -102,5 +102,5 @@
             android:id="@+id/button" app:layout_constraintHorizontal_bias="0.5" android:layout_marginTop="32dp"
             app:layout_constraintTop_toBottomOf="@+id/imageView15"
             style="@style/Widget.AppCompat.Button.Borderless.Colored" android:background="#C6512F"
-            android:textColor="#FFFFFF" android:textSize="16dp"/>
+            android:textColor="#FFFFFF" android:textSize="17sp"/>
 </android.support.constraint.ConstraintLayout>
